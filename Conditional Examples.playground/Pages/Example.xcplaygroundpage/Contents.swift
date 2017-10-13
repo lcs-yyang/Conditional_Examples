@@ -1,4 +1,4 @@
-//: [Previous](@previous)
+//: [Previous](@previous) / [Next](@next)
 //: # Example
 //: The following two statements are required to make the playground run. Please do not remove.
 import Cocoa
